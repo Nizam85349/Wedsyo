@@ -1,0 +1,106 @@
+<ion-header>
+    <ion-navbar>
+        <ion-title>{{groom_first_name}} & {{bride_first_name}}</ion-title>
+    </ion-navbar>
+</ion-header>
+<ion-content>
+    <div class="bannerTopCont">
+        <ul class="owl-carousel bannerTop">
+            <li *ngFor="let slide of sliders" [style.background-image]="'url('+slide.photo_name+')'">
+                <a href={{slide.photo_name}} data-fancybox="topBanner">
+                    <img src={{slide.photo_name}} alt="" />
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="weddingSection">
+        <div class="nameShort">
+            <span>{{groom_first_letter}} & {{bride_first_letter}}</span>
+        </div>
+        <h2 class="dateWed">{{WeddingAlbumDetails.wedding_date}}</h2>
+        <h4 class="greyTitle">{{WeddingAlbumDetails.wedding_text}}</h4>
+
+        <h4>{{WeddingAlbumDetails.wedding_time}}</h4>
+    </div>
+    <div class="coupleSection">
+        <h3 class="coupHead">Meet Haptpy Couple</h3>
+        <div class="couplePic" [style.background-image]="'url('+groomDetails.groom_photo+')'">
+            <img src={{groomDetails.groom_photo}} alt="" /> </div>
+        <h3 class="coupHead">{{groomDetails.groom_name}}</h3>
+        <div class="copShowHideCont">
+            <div class="contentTextCop">{{groomDetails.groom_bio}}
+            </div>
+            <a class="loadMoreCop" href="javascript:void(0)">More
+                <i class="fa fa-caret-down" aria-hidden="true"></i>
+            </a>
+        </div>
+        <div class="couplePic" [style.background-image]="'url('+bridgeDetails.bride_photo+')'">
+            <img src={{bridgeDetails.bride_photo}} alt="" />
+        </div>
+        <h3 class="coupHead">{{bridgeDetails.bride_name}}</h3>
+        <div class="copShowHideCont">
+            <div class="contentTextCop">{{bridgeDetails.bride_bio}}</div>
+            <a class="loadMoreCop" href="javascript:void(0)">More
+                <i class="fa fa-caret-down" aria-hidden="true"></i>
+            </a>
+        </div>
+    </div>
+    <div class="eventAddress">
+        <h3 class="coupHead">The Wedding Events</h3>
+        <div class="awaitedMom">Most awaited moment of our life</div>
+        <div class="eventsloop" *ngFor="let AlbumEvent of AlbumEvents">
+            <div class="godBharai">{{AlbumEvent.event_name}}</div>
+            <div class="ocaDate">
+                <span class="dateiconGod"></span>
+                <span class="godDate">{{AlbumEvent.event_date}}</span>
+                <span class="timeGod">{{AlbumEvent.event_time_from}}</span>
+            </div>
+            <div class="addressBold">
+                <i class="fa fa-map-marker" aria-hidden="true"></i>
+                {{AlbumEvent.event_venue}}
+            </div>
+        </div>
+    </div>
+    <div class="unForMomentsSec mainAlbums">
+        <div class="albumSliderSets" *ngFor="let AlbumPhoto of AlbumPhotos">
+            <h3 class="coupHead">{{AlbumPhoto.activity_name}}</h3>
+            <div class="unforMomTxt">Unforgettable moments</div>
+            <ul class="owl-carousel MainAlbumSlider">
+                <li *ngFor="let activity_photo of AlbumPhoto.activity_photos">
+                    <a href={{activity_photo.photo_name}} data-fancybox="Bride">
+                        <div class="familyPic" [style.background-image]="'url('+activity_photo.photo_name+')'">
+                            <img src={{activity_photo.photo_name}} alt="" />
+                        </div>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="unForMomentsSec">
+        <div class="contactUsTextTop">Contact Us</div>
+        <div class="touchDirctly">Get in touch with us directly</div>
+    </div>
+    <div class="locationPhoneSec">
+        <p>
+            <i class="fa fa-map-marker" aria-hidden="true">
+            </i>
+            {{WeddingContactDetails.contact_address}}
+        </p>
+        <p>
+            <i class="fa fa-phone" aria-hidden="true"></i> {{WeddingContactDetails.primary_phoneno}} / {{WeddingContactDetails.secondary_phoneno}}</p>
+        <p>
+            <i class="fa fa-envelope" aria-hidden="true"></i>
+            <a href="mailto:praveendragautam@gmail.com">{{WeddingContactDetails.email_id}}</a>
+        </p>
+    </div>
+    <div class="footerBanner">
+        <div class="footBannerImg" [style.background-image]="'url(http://salesring.in/data/manjeshwedsavdhesh_4/album_photo/59bcf8ee5d8df.jpg)'">
+            <div class="footMidSec">
+                <h2 class="midFootTxt">See you on 05th February 2017</h2>
+                <div class="withSec"> with
+                    <i class="fa fa-heart" aria-hidden="true"></i> {{groom_first_letter}} & {{bride_first_letter}} </div>
+            </div>
+        </div>
+    </div>
+    <div class="copyRightFoot">&copy; {{groom_first_name}} weds {{bride_first_name}} Wedding Album. All Rights Reserved. </div>
+</ion-content>

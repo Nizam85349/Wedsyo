@@ -1,0 +1,7 @@
+{
+  "name": "gysApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

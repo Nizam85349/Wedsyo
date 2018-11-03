@@ -1,0 +1,86 @@
+@font-face { font-family: 'Comfortaa'; src: url('../fonts/Comfortaa.eot'); src: url('../fonts/Comfortaa.eot?#iefix') format('embedded-opentype'), url('../fonts/Comfortaa.woff2') format('woff2'), url('../fonts/Comfortaa.woff') format('woff'), url('../fonts/Comfortaa.ttf') format('truetype'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'Tangerine'; src: url('../fonts/Tangerine-Regular.eot'); src: url('../fonts/Tangerine-Regular.eot?#iefix') format('embedded-opentype'), url('../fonts/Tangerine-Regular.woff2') format('woff2'), url('../fonts/Tangerine-Regular.woff') format('woff'), url('../fonts/Tangerine-Regular.ttf') format('truetype'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'Roboto'; src: url('../fonts/Roboto-Italic.eot'); src: url('../fonts/Roboto-Italic.eot?#iefix') format('embedded-opentype'), url('../fonts/Roboto-Italic.woff2') format('woff2'), url('../fonts/Roboto-Italic.woff') format('woff'), url('../fonts/Roboto-Italic.ttf') format('truetype'); font-weight: normal; font-style: italic; }
+@font-face { font-family: 'Open Sans'; src: url('../fonts/OpenSans-Bold.eot'); src: url('../fonts/OpenSans-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/OpenSans-Bold.woff2') format('woff2'), url('../fonts/OpenSans-Bold.woff') format('woff'), url('../fonts/OpenSans-Bold.ttf') format('truetype'); font-weight: bold; font-style: normal; }
+@font-face { font-family: 'Roboto'; src: url('../fonts/Roboto-LightItalic.eot'); src: url('../fonts/Roboto-LightItalic.eot?#iefix') format('embedded-opentype'), url('../fonts/Roboto-LightItalic.woff2') format('woff2'), url('../fonts/Roboto-LightItalic.woff') format('woff'), url('../fonts/Roboto-LightItalic.ttf') format('truetype'); font-weight: 300; font-style: italic; }
+@font-face { font-family: 'Open Sans'; src: url('../fonts/OpenSans-SemiBold.eot'); src: url('../fonts/OpenSans-SemiBold.eot?#iefix') format('embedded-opentype'), url('../fonts/OpenSans-SemiBold.woff2') format('woff2'), url('../fonts/OpenSans-SemiBold.woff') format('woff'), url('../fonts/OpenSans-SemiBold.ttf') format('truetype'); font-weight: 600; font-style: normal; }
+@font-face { font-family: 'Roboto'; src: url('../fonts/Roboto-BoldItalic.eot'); src: url('../fonts/Roboto-BoldItalic.eot?#iefix') format('embedded-opentype'), url('../fonts/Roboto-BoldItalic.woff2') format('woff2'), url('../fonts/Roboto-BoldItalic.woff') format('woff'), url('../fonts/Roboto-BoldItalic.ttf') format('truetype'); font-weight: bold; font-style: italic; }
+@font-face { font-family: 'Open Sans'; src: url('../fonts/OpenSans-Italic.eot'); src: url('../fonts/OpenSans-Italic.eot?#iefix') format('embedded-opentype'), url('../fonts/OpenSans-Italic.woff2') format('woff2'), url('../fonts/OpenSans-Italic.woff') format('woff'), url('../fonts/OpenSans-Italic.ttf') format('truetype'); font-weight: normal; font-style: italic; }
+@font-face { font-family: 'Open Sans'; src: url('../fonts/OpenSans-Light.eot'); src: url('../fonts/OpenSans-Light.eot?#iefix') format('embedded-opentype'), url('../fonts/OpenSans-Light.woff2') format('woff2'), url('../fonts/OpenSans-Light.woff') format('woff'), url('../fonts/OpenSans-Light.ttf') format('truetype'); font-weight: 300; font-style: normal; }
+@font-face { font-family: 'Roboto'; src: url('../fonts/Roboto-ThinItalic.eot'); src: url('../fonts/Roboto-ThinItalic.eot?#iefix') format('embedded-opentype'), url('../fonts/Roboto-ThinItalic.woff2') format('woff2'), url('../fonts/Roboto-ThinItalic.woff') format('woff'), url('../fonts/Roboto-ThinItalic.ttf') format('truetype'); font-weight: 100; font-style: italic; }
+@font-face { font-family: 'Comfortaa'; src: url('../fonts/Comfortaa-Bold.eot'); src: url('../fonts/Comfortaa-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/Comfortaa-Bold.woff2') format('woff2'), url('../fonts/Comfortaa-Bold.woff') format('woff'), url('../fonts/Comfortaa-Bold.ttf') format('truetype'); font-weight: bold; font-style: normal; }
+@font-face { font-family: 'Open Sans'; src: url('../fonts/OpenSans-Regular.eot'); src: url('../fonts/OpenSans-Regular.eot?#iefix') format('embedded-opentype'), url('../fonts/OpenSans-Regular.woff2') format('woff2'), url('../fonts/OpenSans-Regular.woff') format('woff'), url('../fonts/OpenSans-Regular.ttf') format('truetype'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'Open Sans'; src: url('../fonts/OpenSans-LightItalic.eot'); src: url('../fonts/OpenSans-LightItalic.eot?#iefix') format('embedded-opentype'), url('../fonts/OpenSans-LightItalic.woff2') format('woff2'), url('../fonts/OpenSans-LightItalic.woff') format('woff'), url('../fonts/OpenSans-LightItalic.ttf') format('truetype'); font-weight: 300; font-style: italic; }
+@font-face { font-family: 'Roboto'; src: url('../fonts/Roboto-Thin.eot'); src: url('../fonts/Roboto-Thin.eot?#iefix') format('embedded-opentype'), url('../fonts/Roboto-Thin.woff2') format('woff2'), url('../fonts/Roboto-Thin.woff') format('woff'), url('../fonts/Roboto-Thin.ttf') format('truetype'); font-weight: 100; font-style: normal; }
+@font-face { font-family: 'Open Sans'; src: url('../fonts/OpenSans-SemiBoldItalic.eot'); src: url('../fonts/OpenSans-SemiBoldItalic.eot?#iefix') format('embedded-opentype'), url('../fonts/OpenSans-SemiBoldItalic.woff2') format('woff2'), url('../fonts/OpenSans-SemiBoldItalic.woff') format('woff'), url('../fonts/OpenSans-SemiBoldItalic.ttf') format('truetype'); font-weight: 600; font-style: italic; }
+@font-face { font-family: 'Roboto'; src: url('../fonts/Roboto-Bold.eot'); src: url('../fonts/Roboto-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/Roboto-Bold.woff2') format('woff2'), url('../fonts/Roboto-Bold.woff') format('woff'), url('../fonts/Roboto-Bold.ttf') format('truetype'); font-weight: bold; font-style: normal; }
+@font-face { font-family: 'Roboto'; src: url('../fonts/Roboto-Light.eot'); src: url('../fonts/Roboto-Light.eot?#iefix') format('embedded-opentype'), url('../fonts/Roboto-Light.woff2') format('woff2'), url('../fonts/Roboto-Light.woff') format('woff'), url('../fonts/Roboto-Light.ttf') format('truetype'); font-weight: 300; font-style: normal; }
+@font-face { font-family: 'Open Sans'; src: url('../fonts/OpenSans-ExtraBold.eot'); src: url('../fonts/OpenSans-ExtraBold.eot?#iefix') format('embedded-opentype'), url('../fonts/OpenSans-ExtraBold.woff2') format('woff2'), url('../fonts/OpenSans-ExtraBold.woff') format('woff'), url('../fonts/OpenSans-ExtraBold.ttf') format('truetype'); font-weight: 800; font-style: normal; }
+@font-face { font-family: 'Roboto'; src: url('../fonts/Roboto-Regular.eot'); src: url('../fonts/Roboto-Regular.eot?#iefix') format('embedded-opentype'), url('../fonts/Roboto-Regular.woff2') format('woff2'), url('../fonts/Roboto-Regular.woff') format('woff'), url('../fonts/Roboto-Regular.ttf') format('truetype'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'Roboto'; src: url('../fonts/Roboto-MediumItalic.eot'); src: url('../fonts/Roboto-MediumItalic.eot?#iefix') format('embedded-opentype'), url('../fonts/Roboto-MediumItalic.woff2') format('woff2'), url('../fonts/Roboto-MediumItalic.woff') format('woff'), url('../fonts/Roboto-MediumItalic.ttf') format('truetype'); font-weight: 500; font-style: italic; }
+@font-face { font-family: 'Comfortaa'; src: url('../fonts/Comfortaa-Thin.eot'); src: url('../fonts/Comfortaa-Thin.eot?#iefix') format('embedded-opentype'), url('../fonts/Comfortaa-Thin.woff2') format('woff2'), url('../fonts/Comfortaa-Thin.woff') format('woff'), url('../fonts/Comfortaa-Thin.ttf') format('truetype'); font-weight: 100; font-style: normal; }
+@font-face { font-family: 'Roboto'; src: url('../fonts/Roboto-Black.eot'); src: url('../fonts/Roboto-Black.eot?#iefix') format('embedded-opentype'), url('../fonts/Roboto-Black.woff2') format('woff2'), url('../fonts/Roboto-Black.woff') format('woff'), url('../fonts/Roboto-Black.ttf') format('truetype'); font-weight: 900; font-style: normal; }
+@font-face { font-family: 'Open Sans'; src: url('../fonts/OpenSans-ExtraBoldItalic.eot'); src: url('../fonts/OpenSans-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'), url('../fonts/OpenSans-ExtraBoldItalic.woff2') format('woff2'), url('../fonts/OpenSans-ExtraBoldItalic.woff') format('woff'), url('../fonts/OpenSans-ExtraBoldItalic.ttf') format('truetype'); font-weight: 800; font-style: italic; }
+@font-face { font-family: 'Roboto'; src: url('../fonts/Roboto-Medium.eot'); src: url('../fonts/Roboto-Medium.eot?#iefix') format('embedded-opentype'), url('../fonts/Roboto-Medium.woff2') format('woff2'), url('../fonts/Roboto-Medium.woff') format('woff'), url('../fonts/Roboto-Medium.ttf') format('truetype'); font-weight: 500; font-style: normal; }
+@font-face { font-family: 'Roboto'; src: url('../fonts/Roboto-BlackItalic.eot'); src: url('../fonts/Roboto-BlackItalic.eot?#iefix') format('embedded-opentype'), url('../fonts/Roboto-BlackItalic.woff2') format('woff2'), url('../fonts/Roboto-BlackItalic.woff') format('woff'), url('../fonts/Roboto-BlackItalic.ttf') format('truetype'); font-weight: 900; font-style: italic; }
+@font-face { font-family: 'Open Sans'; src: url('../fonts/OpenSans-BoldItalic.eot'); src: url('../fonts/OpenSans-BoldItalic.eot?#iefix') format('embedded-opentype'), url('../fonts/OpenSans-BoldItalic.woff2') format('woff2'), url('../fonts/OpenSans-BoldItalic.woff') format('woff'), url('../fonts/OpenSans-BoldItalic.ttf') format('truetype'); font-weight: bold; font-style: italic; }
+@font-face { font-family: 'Tangerine'; src: url('../fonts/Tangerine-Bold.eot'); src: url('../fonts/Tangerine-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/Tangerine-Bold.woff2') format('woff2'), url('../fonts/Tangerine-Bold.woff') format('woff'), url('../fonts/Tangerine-Bold.ttf') format('truetype'); font-weight: bold; font-style: normal; }
+.toolbar-background { background: #ee2a7b; }
+.toolbar-title { color: #fff; text-align: center; }
+.bannerTop { margin: 0; padding: 0; width: 100%; height: auto; padding: 0 0 0; }
+.bannerTop li { width: 100%; padding: 0 0 95%; background-position: center center; background-repeat: no-repeat; background-size: cover; height: 0; overflow: hidden; }
+.weddingSection { width: 100%; float: left; background: url(../images/FloowerBG.png) no-repeat; background-position: center center; background-size: cover; padding: 21rem 0 5rem; margin-top: -21rem; position: relative; z-index: 9; }
+.nameShort { width: 100%; float: left; text-align: center; }
+.nameShort span { width: 10rem; height: 10rem; display: inline-block; background: url(../images/heartImg.png) no-repeat; background-position: center center; font-size: 1.5rem; color: #fff; background-size: contain; line-height: 10rem; text-align: left; text-indent: 2rem; font-family: 'Tangerine'; }
+.dateWed { display: inline-block; color: #ec365a; font-size: 5rem; text-align: center; font-family: 'Comfortaa'; width: 100%; }
+.greyTitle { display: inline-block; color: #454545; font-size: 3rem; text-align: center; font-family: 'Comfortaa'; width: 100%; }
+.coupleSection { width: 100%; float: left; padding: 3rem 0; background: url(../images/bluredImg1.png) no-repeat; background-size: cover; background-repeat: repeat-y; text-align: center; }
+.coupHead { font-size: 4.5rem; color: #ff002f; text-align: center; font-family: 'Tangerine'; font-weight: bold; }
+.couplePic { width: 50%; height: 0; overflow: hidden; padding: 0 0 50%; background-position: center center; background-repeat: no-repeat; background-size: cover; display: inline-block; border-radius: 100%; }
+.couplePic img { opacity: 0; visibility: hidden; }
+.contentTextCop { font-size: 1.7rem; color: #000; font-weight: 500; padding: 0 8%; margin-bottom: 0.5rem; }
+a.loadMoreCop,
+.loadMoreCop { font-size: 1.2rem; color: #d30057; font-weight: 500; padding: 0 8%; margin-bottom: 0.5rem; margin-top: 0.5rem; text-decoration: none; margin-bottom: 2em; display: inline-block; }
+a.loadMoreCop i,
+.loadMoreCop i { font-size: 1.4rem; }
+.eventAddress { padding: 2em 0; width: 100%; float: left; background-image: url(../images/godBhariaBg.png); background-size: cover; background-position: center center; background-repeat: no-repeat; }
+.eventAddress { width: 100%; }
+.awaitedMom { font-size: 2.4rem; text-align: center; color: #1f1f1f; padding: 0 1rem; }
+.godBharai { font-size: 2.4rem; text-align: center; color: #ff002f; padding: 0 1rem; font-weight: 600; margin: 1rem 0; }
+.eventAddress { text-align: center; }
+.ocaDate { text-align: center; border-radius: 100%; border: 4px solid #ff80b5; display: inline-block; background: #ee2a7b; color: #fff; width: 12rem; height: 12rem; padding: 1.8rem 0 0; margin: 0.5rem 0; }
+.dateiconGod { width: 3rem; height: 3rem; background: url(../images/calenderIcon.png) no-repeat; background-position: center center; display: inline-block; background-size: contain; }
+.godDate { display: block; width: 100%; font-weight: bold; font-size: 1.8rem; }
+.timeGod { display: block; width: 100%; font-size: 1.4rem; }
+.godDate { margin-bottom: 0.5rem; }
+.addressBold { font-size: 1.8rem; font-weight: bold; color: #000; text-align: center; display: block; width: 100%; margin: 1.5rem 0 0; ; }
+.contentTextCop { margin-bottom: 1rem; }
+.addressBold .fa { font-size: 2rem; color: #ee2a7b; margin-right: 0.2rem; }
+.unforMomTxt { font-size: 2.6rem; margin: 0.5rem 0; color: #454545; display: inline-block; width: 100%; text-align: center; }
+.unForMomentsSec { padding: 0.5rem 0 2rem; width: 100%; float: left; clear: both; background: url(../images/mommentBg.jpg) no-repeat; background-size: cover; background-position: center center; }
+.familyPic { width: 100%; float: left; border: 3px solid #ee2a7b; border-left: 0; border-right: 0; }
+.familyPic img { display: inline-block; float: left; }
+.contactUsTextTop { font-size: 4.5rem; color: #ff002f; text-align: center; font-family: 'Tangerine'; font-weight: bold; margin-top: 1rem; padding-top: 1.5rem; display: inline-block; width: 100%; }
+.touchDirctly { font-size: 2.5rem; color: #454545; text-align: center; font-weight: normal; }
+.locationPhoneSec { width: 100%; float: left; clear: both; background: #ee2a7b; color: #fff; padding: 2rem; text-align: center; font-size: 1.4em; }
+.locationPhoneSec p { margin: 0 0 2.7rem; line-height: 2.9rem }
+.locationPhoneSec p a { color: #fff; text-decoration: none; }
+.footerBanner { background: url(../images/FooterBg.png) no-repeat; background-size: cover; background-position: center center; float: left; width: 100% }
+.footMidSec { margin: 9em 0; float: left; clear: both; width: 100%; background: rgba(255,255,255,0.5); }
+.midFootTxt { font-size: 7rem; color: #ee2a7b; text-align: center; font-family: 'Tangerine'; font-weight: bold; }
+.withSec { font-weight: 500; font-size: 2em; color: #ee2a7b; margin: 1em 0; text-align: center; }
+.copyRightFoot { padding: 1.5em 0; text-align: center; font-size: 1.5em; color: #454545; background: url(../images/FloowerBG.png) no-repeat; background-position: bottom center; float: left; width: 100%; }
+
+.MainAlbumSlider  {width:100%; float:left;margin:1.5em 0 0; padding:0; list-style:none;} 
+.MainAlbumSlider li {width:100%;float:left; }
+.MainAlbumSlider .familyPic{width:100%; float:left; margin:0; height:0; padding:0 0 70%; background-repeat:no no-repeat; background-position:center center; background-size:cover;}
+.owl-nav , .owl-dots {display:none !important;}
+.MainAlbumSlider .familyPic img{visibility:hidden; opacity:0; }
+.albumSliderSets {width:100%; float:left; margin:0 0 2em;} 
+.bannerTop li {list-style:none; width:100%; height:0; padding:0 0 100%; background-repeat:no no-repeat; background-position:center center; background-size:cover;} 
+.bannerTop li img {visibility:hidden; opacity:0; }
+.fancybox-toolbar .fancybox-button--zoom ,
+.fancybox-toolbar .fancybox-button--play,
+.fancybox-toolbar .fancybox-button--thumbs {display:none !important;}
+
+ 
